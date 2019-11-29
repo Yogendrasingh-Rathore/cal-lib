@@ -1,4 +1,4 @@
-def call(args)
+def call(a,b)
         {
             def c = a + b
                 echo "${c}"
