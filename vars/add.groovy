@@ -1,8 +1,6 @@
-class A
-{
-def cal(a,b)
+def call(a,b)
         {
             def c = a + b
             c
         }
-}
+
