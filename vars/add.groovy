@@ -1,6 +1,5 @@
-def call(a,b)
-        {
-            def c = a + b
-                echo "${c}"
-        }
+def call(String name) {
+ 
+   echo "Welcome ${name}"
+}
 
