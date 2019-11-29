@@ -1,4 +1,4 @@
-def call(a,b)
+def call(args)
         {
             def c = a + b
             c
