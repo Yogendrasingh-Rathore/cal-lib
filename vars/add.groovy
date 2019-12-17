@@ -2,6 +2,6 @@ class add
 {
   def call(int no) {
 
-     echo "You entered ${no}"
+     print "You entered ${no}"
   }
 }
