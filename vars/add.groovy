@@ -1,7 +1,7 @@
 class add
 {
-  def call(String name) {
+  def call(int no) {
 
-     echo "Welcome ${name}"
+     echo "You entered ${no}"
   }
 }
